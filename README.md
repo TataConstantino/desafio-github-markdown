@@ -13,4 +13,4 @@
  | Autenticações            | [Certificado](https://www.dio.me/certificate/O83YNFZA/share) 
 --- 
 ># Informações GitHUb
-![ Tata Constantino GitHub stats](https://github-readme-stats.vercel.app/api?username=TataConstantino&show_icons=true&theme=radical)
+![TataConstantino GitHub stats](https://github-readme-stats.vercel.app/api?username=TataConstantino&show_icons=true&theme=transparent)
